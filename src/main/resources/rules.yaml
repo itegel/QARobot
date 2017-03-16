@@ -1,0 +1,3 @@
+- !!qarobot.QARule {jumpUrl: aplly.com, rule: .*申请.*}
+- !!qarobot.QARule {jumpUrl: nurse.com, rule: .*护士.*}
+- !!qarobot.QARule {jumpUrl: 百度.com, rule: .*百度.*}
